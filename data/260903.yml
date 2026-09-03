@@ -1,0 +1,61 @@
+about:
+  description: Git powered terminal-based todo/note manager --  markdown note page per task. Single binary!
+  license: MIT
+  homepage: https://calbryant.uk/blog/dstask-a-taskwarrior-alternative/
+  head: cdfd902
+  archived: false
+  latestVersion: v1.0.1
+  collectedAt: 2026-09-03T03:40:27Z
+timeline:
+  created: 2018-12-08
+  lastCommit: 2026-05-11
+  lastRelease: 2026-01-10
+popularity:
+  star: 1203
+  watcher: 21
+  fork: 67
+  release: 32
+  contributor: 28
+  pullRequest: 19
+  issue: 138
+language:
+  Go: 162114
+  Shell: 9443
+  PowerShell: 1098
+  Nushell: 589
+  Makefile: 414
+  Nix: 93
+totalLine: 173751
+recent:
+  last30d:
+    since: 2026-08-04
+    release: 0
+    mergedPR: 0
+    openPR: 0
+    closedIssue: 0
+    openIssue: 0
+    commit: 0
+  last90d:
+    since: 2026-06-05
+    release: 0
+    mergedPR: 0
+    openPR: 1
+    closedIssue: 2
+    openIssue: 0
+    commit: 0
+  last180d:
+    since: 2026-03-07
+    release: 0
+    mergedPR: 3
+    openPR: 2
+    closedIssue: 4
+    openIssue: 1
+    commit: 6
+  last360d:
+    since: 2025-09-08
+    release: 3
+    mergedPR: 13
+    openPR: 2
+    closedIssue: 13
+    openIssue: 2
+    commit: 31
