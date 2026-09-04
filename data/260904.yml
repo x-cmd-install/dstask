@@ -7,7 +7,7 @@ about:
   head: cdfd902
   archived: false
   latestVersion: v1.0.1
-  collectedAt: 2026-09-04T19:21:40Z
+  collectedAt: 2026-09-04T21:18:46Z
 timeline:
   created: 2018-12-08
   lastCommit: 2026-05-11
@@ -15,7 +15,7 @@ timeline:
 popularity:
   star: 1203
   watcher: 21
-  fork: 67
+  fork: 68
   release: 32
   contributor: 28
   pullRequest: 100
@@ -85,6 +85,59 @@ total:
   openIssue: 41
   commit: 990
 ---
+path: /home/runner/.x-repo/github.com/naggie/dstask
+collectedAt: 2026-09-04T21:18:47Z
+loc:
+  Go:
+    code: 4997
+    comments: 369
+    blanks: 1324
+    files: 45
+  Json:
+    code: 149
+    comments: 0
+    blanks: 0
+    files: 1
+  Sh:
+    code: 146
+    comments: 56
+    blanks: 45
+    files: 4
+  Zsh:
+    code: 36
+    comments: 0
+    blanks: 3
+    files: 1
+  Makefile:
+    code: 18
+    comments: 0
+    blanks: 6
+    files: 1
+  PowerShell:
+    code: 16
+    comments: 5
+    blanks: 6
+    files: 1
+  Nix:
+    code: 6
+    comments: 0
+    blanks: 3
+    files: 1
+  Fish:
+    code: 1
+    comments: 3
+    blanks: 2
+    files: 1
+  Markdown:
+    code: 0
+    comments: 424
+    blanks: 151
+    files: 5
+total:
+  code: 5400
+  comments: 860
+  blanks: 1544
+  files: 60
 ---
 date: "2026-08-24"
 repo:
