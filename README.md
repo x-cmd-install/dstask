@@ -7,7 +7,7 @@ Git powered terminal-based todo/note manager --  markdown note page per task. Si
 - **Latest release**: `v1.0.1` (2026-01-10)
 - **Last commit**: 2026-05-11
 - **License**: MIT
-- **Stars**: 1203 · **Forks**: 68 · **Open issues**: 138 · **Contributors**: 28
+- **Stars**: 1203 · **Forks**: 68 · **Open issues**: 139 · **Contributors**: 28
 
 ## Installation
 
@@ -21,4 +21,4 @@ See <https://x-cmd.com/install/dstask> for details.
 
 This mirror is auto-maintained by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action). Latest card snapshot: `data/card/260909.yml`. Merged card+release view: `data/latest.report.yml`.
 
-_Last regenerated: 2026-09-09T05:24:05Z._
+_Last regenerated: 2026-09-09T19:40:51Z._
