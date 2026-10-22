@@ -26,11 +26,11 @@ Total: **5,369** lines of code across **52** files in the top 5 languages.
 
 ## OpenSSF Scorecard
 
-Overall score: **3.9 / 10**
+Overall score: **3.8 / 10**
 
 Lowest-scoring checks:
 
-- **Maintained** (1/10) — 0 commit(s) and 2 issue activity found in the last 90 days -- score normalized to 1
+- **Maintained** (0/10) — 0 commit(s) and 0 issue activity found in the last 90 days -- score normalized to 0
 - **Token-Permissions** (0/10) — detected GitHub workflow tokens with excessive permissions
 - **Pinned-Dependencies** (0/10) — dependency not pinned by hash detected -- score normalized to 0
 
@@ -58,12 +58,12 @@ Lowest-scoring checks:
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-09-21 | 0 | 0 | 0 | 0 | 0 | 0 |
-| last60d | 2026-08-22 | 0 | 0 | 0 | 0 | 1 | 0 |
-| 90d | 2026-07-23 | 0 | 0 | 0 | 0 | 1 | 0 |
-| last180d | 2026-04-24 | 0 | 2 | 2 | 3 | 2 | 2 |
-| 360d | 2025-10-26 | 2 | 9 | 2 | 11 | 2 | 21 |
-| last720d | 2024-10-31 | 4 | 24 | 2 | 19 | 6 | 104 |
+| 30d | 2026-09-22 | 0 | 0 | 0 | 0 | 0 | 0 |
+| last60d | 2026-08-23 | 0 | 0 | 0 | 0 | 1 | 0 |
+| 90d | 2026-07-24 | 0 | 0 | 0 | 0 | 1 | 0 |
+| last180d | 2026-04-25 | 0 | 2 | 2 | 3 | 2 | 2 |
+| 360d | 2025-10-27 | 2 | 9 | 2 | 11 | 2 | 21 |
+| last720d | 2024-11-01 | 4 | 24 | 2 | 19 | 6 | 104 |
 
 ## Release assets
 
@@ -90,4 +90,4 @@ Install metadata for dstask lives in the [x-cmd/install](https://github.com/x-cm
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/261021.yml` · 2026-10-21T05:18:21Z._
+_Snapshot: `data/card/261022.yml` · 2026-10-22T05:26:47Z._
