@@ -58,12 +58,12 @@ Lowest-scoring checks:
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-09-22 | 0 | 0 | 0 | 0 | 0 | 0 |
-| last60d | 2026-08-23 | 0 | 0 | 0 | 0 | 1 | 0 |
-| 90d | 2026-07-24 | 0 | 0 | 0 | 0 | 1 | 0 |
-| last180d | 2026-04-25 | 0 | 2 | 2 | 3 | 2 | 2 |
-| 360d | 2025-10-27 | 2 | 9 | 2 | 11 | 2 | 21 |
-| last720d | 2024-11-01 | 4 | 24 | 2 | 19 | 6 | 104 |
+| 30d | 2026-09-23 | 0 | 0 | 0 | 0 | 0 | 0 |
+| last60d | 2026-08-24 | 0 | 0 | 0 | 0 | 1 | 0 |
+| 90d | 2026-07-25 | 0 | 0 | 0 | 0 | 1 | 0 |
+| last180d | 2026-04-26 | 0 | 2 | 2 | 3 | 2 | 2 |
+| 360d | 2025-10-28 | 2 | 9 | 2 | 11 | 2 | 21 |
+| last720d | 2024-11-02 | 4 | 24 | 2 | 19 | 6 | 104 |
 
 ## Release assets
 
@@ -81,6 +81,16 @@ Lowest-scoring checks:
 | [dstask-linux-arm5](https://github.com/naggie/dstask/releases/download/v1.0.1/dstask-linux-arm5) | 3.6 MiB | `native/linux/arm` |
 | [dstask-windows-amd64.exe](https://github.com/naggie/dstask/releases/download/v1.0.1/dstask-windows-amd64.exe) | 4.1 MiB | `native/win/x64` |
 
+## Distribution status
+
+Reported by **19** distros on [repology.org](https://repology.org/project/dstask). **12** are ✅ on the latest upstream release, **5** are ⚠️ on an older version.
+
+| Distro | Version | Status |
+|--------|---------|--------|
+| Homebrew | `1.0.1` | ✅ latest |
+| Nix unstable | `1.0.1` | ✅ latest |
+| Alpine edge | `1.0.1` | ✅ latest |
+
 ## Improve this data
 
 Install metadata for dstask lives in the [x-cmd/install](https://github.com/x-cmd/install) index — a curated YAML package list that x-cmd consumes at install time. If `dstask` is missing, out of date, or installs incorrectly, please open an issue or PR there:
@@ -90,4 +100,4 @@ Install metadata for dstask lives in the [x-cmd/install](https://github.com/x-cm
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/261022.yml` · 2026-10-22T05:26:47Z._
+_Snapshot: `data/card/261023.yml` · 2026-10-23T05:20:40Z._
