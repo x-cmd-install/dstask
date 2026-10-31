@@ -48,22 +48,22 @@ Lowest-scoring checks:
 
 ## Popularity
 
-- **Stars**: 1,215 · **Forks**: 68 · **Open issues**: 139 · **Contributors**: 28
+- **Stars**: 1,216 · **Forks**: 68 · **Open issues**: 140 · **Contributors**: 28
 
 ## Totals (cumulative)
 
-- **Releases**: 32 · **Merged PRs**: 81 · **Open PRs**: 2 · **Closed issues**: 97 · **Open issues**: 42 · **Commits**: 990
+- **Releases**: 32 · **Merged PRs**: 81 · **Open PRs**: 2 · **Closed issues**: 97 · **Open issues**: 43 · **Commits**: 990
 
 ## Recent activity
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-09-30 | 0 | 0 | 0 | 0 | 0 | 0 |
-| last60d | 2026-08-31 | 0 | 0 | 0 | 0 | 1 | 0 |
-| 90d | 2026-08-01 | 0 | 0 | 0 | 0 | 1 | 0 |
-| last180d | 2026-05-03 | 0 | 1 | 2 | 2 | 2 | 1 |
-| 360d | 2025-11-04 | 1 | 8 | 2 | 10 | 2 | 12 |
-| last720d | 2024-11-09 | 4 | 24 | 2 | 19 | 6 | 104 |
+| 30d | 2026-10-01 | 0 | 0 | 0 | 0 | 1 | 0 |
+| last60d | 2026-09-01 | 0 | 0 | 0 | 0 | 2 | 0 |
+| 90d | 2026-08-02 | 0 | 0 | 0 | 0 | 2 | 0 |
+| last180d | 2026-05-04 | 0 | 1 | 2 | 2 | 3 | 1 |
+| 360d | 2025-11-05 | 1 | 7 | 2 | 10 | 3 | 12 |
+| last720d | 2024-11-10 | 4 | 24 | 2 | 19 | 7 | 104 |
 
 ## Release assets
 
@@ -100,4 +100,4 @@ Install metadata for dstask lives in the [x-cmd/install](https://github.com/x-cm
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/261030.yml` · 2026-10-30T06:19:42Z._
+_Snapshot: `data/card/261031.yml` · 2026-10-31T06:06:51Z._
