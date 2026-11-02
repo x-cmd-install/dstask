@@ -1,3 +1,34 @@
+- repo: nix_stable_24_05
+  srcname: dstask
+  visiblename: dstask
+  version: "0.26"
+  origversion: null
+  status: outdated
+  summary: Command line todo list with super-reliable git sync
+  maintainers:
+    - stianlagstad@gmail.com
+  licenses:
+    - MIT
+- repo: freebsd
+  srcname: deskutils/dstask
+  binname: dstask
+  visiblename: deskutils/dstask
+  version: "0.26"
+  origversion: "0.26_40"
+  status: outdated
+  summary: Single binary terminal-based TODO manager with git-based sync
+  maintainers:
+    - ashish@freebsd.org
+  categories:
+    - deskutils
+- repo: gnuguix
+  srcname: dstask
+  binname: dstask
+  visiblename: dstask
+  version: 1.0.1
+  origversion: null
+  status: newest
+  summary: CLI-based TODO manager with git-based sync + markdown notes per task
 - repo: homebrew
   srcname: dstask
   visiblename: dstask
@@ -5,13 +36,34 @@
   origversion: null
   status: newest
   summary: Git-powered personal task tracker
+- repo: homebrew
+  srcname: dstask
+  visiblename: dstask
+  version: HEAD
+  origversion: null
+  status: rolling
+  summary: Git-powered personal task tracker
+- repo: macports
+  srcname: office/dstask
+  binname: dstask
+  visiblename: dstask
+  version: 1.0.1
+  origversion: null
+  status: newest
+  summary: Single binary terminal-based TODO manager with git-based sync + markdown notes per task
+  maintainers:
+    - herbygillot@github
+  licenses:
+    - MIT
+  categories:
+    - office
 - repo: alpine_edge
   subrepo: testing
   srcname: dstask
   binname: dstask
   visiblename: dstask
   version: 1.0.1
-  origversion: 1.0.1-r3
+  origversion: 1.0.1-r4
   status: newest
   summary: Personal task tracker designed to help you focus
   maintainers:
@@ -24,7 +76,7 @@
   binname: dstask-bash-completion
   visiblename: dstask-bash-completion
   version: 1.0.1
-  origversion: 1.0.1-r3
+  origversion: 1.0.1-r4
   status: newest
   summary: Bash completions for dstask
   maintainers:
@@ -37,7 +89,7 @@
   binname: dstask-fish-completion
   visiblename: dstask-fish-completion
   version: 1.0.1
-  origversion: 1.0.1-r3
+  origversion: 1.0.1-r4
   status: newest
   summary: Fish completions for dstask
   maintainers:
@@ -50,7 +102,7 @@
   binname: dstask-import
   visiblename: dstask-import
   version: 1.0.1
-  origversion: 1.0.1-r3
+  origversion: 1.0.1-r4
   status: newest
   summary: Import tool for dstask
   maintainers:
@@ -63,7 +115,7 @@
   binname: dstask-zsh-completion
   visiblename: dstask-zsh-completion
   version: 1.0.1
-  origversion: 1.0.1-r3
+  origversion: 1.0.1-r4
   status: newest
   summary: Zsh completions for dstask
   maintainers:
@@ -104,58 +156,6 @@
   summary: Git-powered terminal-based todo/note manager with full markdown note for each task (development version)
   maintainers:
     - kseistrup@aur
-  licenses:
-    - MIT
-- repo: freebsd
-  srcname: deskutils/dstask
-  binname: dstask
-  visiblename: deskutils/dstask
-  version: "0.26"
-  origversion: "0.26_40"
-  status: outdated
-  summary: Single binary terminal-based TODO manager with git-based sync
-  maintainers:
-    - ashish@freebsd.org
-  categories:
-    - deskutils
-- repo: gnuguix
-  srcname: dstask
-  binname: dstask
-  visiblename: dstask
-  version: 1.0.1
-  origversion: null
-  status: newest
-  summary: CLI-based TODO manager with git-based sync + markdown notes per task
-- repo: homebrew
-  srcname: dstask
-  visiblename: dstask
-  version: HEAD
-  origversion: null
-  status: rolling
-  summary: Git-powered personal task tracker
-- repo: macports
-  srcname: office/dstask
-  binname: dstask
-  visiblename: dstask
-  version: 1.0.1
-  origversion: null
-  status: newest
-  summary: Single binary terminal-based TODO manager with git-based sync + markdown notes per task
-  maintainers:
-    - herbygillot@github
-  licenses:
-    - MIT
-  categories:
-    - office
-- repo: nix_stable_24_05
-  srcname: dstask
-  visiblename: dstask
-  version: "0.26"
-  origversion: null
-  status: outdated
-  summary: Command line todo list with super-reliable git sync
-  maintainers:
-    - stianlagstad@gmail.com
   licenses:
     - MIT
 - repo: nix_stable_24_11
