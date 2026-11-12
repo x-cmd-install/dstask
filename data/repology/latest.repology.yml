@@ -1,38 +1,3 @@
-- repo: gnuguix
-  srcname: dstask
-  binname: dstask
-  visiblename: dstask
-  version: 1.0.1
-  origversion: null
-  status: newest
-  summary: CLI-based TODO manager with git-based sync + markdown notes per task
-- repo: homebrew
-  srcname: dstask
-  visiblename: dstask
-  version: 1.0.1
-  origversion: null
-  status: newest
-  summary: Git-powered personal task tracker
-- repo: homebrew
-  srcname: dstask
-  visiblename: dstask
-  version: HEAD
-  origversion: null
-  status: rolling
-  summary: Git-powered personal task tracker
-- repo: alpine_edge
-  subrepo: testing
-  srcname: dstask
-  binname: dstask
-  visiblename: dstask
-  version: 1.0.1
-  origversion: 1.0.1-r4
-  status: newest
-  summary: Personal task tracker designed to help you focus
-  maintainers:
-    - michal@polanski.me
-  licenses:
-    - MIT
 - repo: alpine_edge
   subrepo: testing
   srcname: dstask
@@ -42,6 +7,19 @@
   origversion: 1.0.1-r4
   status: newest
   summary: Bash completions for dstask
+  maintainers:
+    - michal@polanski.me
+  licenses:
+    - MIT
+- repo: alpine_edge
+  subrepo: testing
+  srcname: dstask
+  binname: dstask
+  visiblename: dstask
+  version: 1.0.1
+  origversion: 1.0.1-r4
+  status: newest
+  summary: Personal task tracker designed to help you focus
   maintainers:
     - michal@polanski.me
   licenses:
@@ -126,13 +104,35 @@
   binname: dstask
   visiblename: deskutils/dstask
   version: "0.26"
-  origversion: "0.26_40"
+  origversion: "0.26_41"
   status: outdated
   summary: Single binary terminal-based TODO manager with git-based sync
   maintainers:
     - ashish@freebsd.org
   categories:
     - deskutils
+- repo: gnuguix
+  srcname: dstask
+  binname: dstask
+  visiblename: dstask
+  version: 1.0.1
+  origversion: null
+  status: newest
+  summary: CLI-based TODO manager with git-based sync + markdown notes per task
+- repo: homebrew
+  srcname: dstask
+  visiblename: dstask
+  version: 1.0.1
+  origversion: null
+  status: newest
+  summary: Git-powered personal task tracker
+- repo: homebrew
+  srcname: dstask
+  visiblename: dstask
+  version: HEAD
+  origversion: null
+  status: rolling
+  summary: Git-powered personal task tracker
 - repo: macports
   srcname: office/dstask
   binname: dstask
