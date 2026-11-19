@@ -1,16 +1,17 @@
-- repo: alpine_edge
-  subrepo: testing
+- repo: homebrew
   srcname: dstask
-  binname: dstask-bash-completion
-  visiblename: dstask-bash-completion
+  visiblename: dstask
+  version: HEAD
+  origversion: null
+  status: rolling
+  summary: Git-powered personal task tracker
+- repo: homebrew
+  srcname: dstask
+  visiblename: dstask
   version: 1.0.1
-  origversion: 1.0.1-r4
+  origversion: null
   status: newest
-  summary: Bash completions for dstask
-  maintainers:
-    - michal@polanski.me
-  licenses:
-    - MIT
+  summary: Git-powered personal task tracker
 - repo: alpine_edge
   subrepo: testing
   srcname: dstask
@@ -20,6 +21,19 @@
   origversion: 1.0.1-r4
   status: newest
   summary: Personal task tracker designed to help you focus
+  maintainers:
+    - michal@polanski.me
+  licenses:
+    - MIT
+- repo: alpine_edge
+  subrepo: testing
+  srcname: dstask
+  binname: dstask-bash-completion
+  visiblename: dstask-bash-completion
+  version: 1.0.1
+  origversion: 1.0.1-r4
+  status: newest
+  summary: Bash completions for dstask
   maintainers:
     - michal@polanski.me
   licenses:
@@ -119,20 +133,6 @@
   origversion: null
   status: newest
   summary: CLI-based TODO manager with git-based sync + markdown notes per task
-- repo: homebrew
-  srcname: dstask
-  visiblename: dstask
-  version: 1.0.1
-  origversion: null
-  status: newest
-  summary: Git-powered personal task tracker
-- repo: homebrew
-  srcname: dstask
-  visiblename: dstask
-  version: HEAD
-  origversion: null
-  status: rolling
-  summary: Git-powered personal task tracker
 - repo: macports
   srcname: office/dstask
   binname: dstask
