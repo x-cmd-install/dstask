@@ -38,7 +38,7 @@ Total: **5,369** lines of code across **52** files in the top 5 languages.
 
 ## Popularity
 
-- **Stars**: 1,223 · **Forks**: 70 · **Open issues**: 142 · **Contributors**: 28
+- **Stars**: 1,224 · **Forks**: 70 · **Open issues**: 142 · **Contributors**: 28
 
 ## Totals (cumulative)
 
@@ -48,12 +48,12 @@ Total: **5,369** lines of code across **52** files in the top 5 languages.
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-10-25 | 0 | 0 | 1 | 1 | 2 | 0 |
-| last60d | 2026-09-25 | 0 | 0 | 1 | 1 | 2 | 0 |
-| 90d | 2026-08-26 | 0 | 0 | 1 | 1 | 3 | 0 |
-| last180d | 2026-05-28 | 0 | 0 | 2 | 3 | 3 | 0 |
-| 360d | 2025-11-29 | 1 | 5 | 3 | 10 | 4 | 10 |
-| last720d | 2024-12-04 | 4 | 24 | 3 | 20 | 8 | 104 |
+| 30d | 2026-10-26 | 0 | 0 | 1 | 1 | 2 | 0 |
+| last60d | 2026-09-26 | 0 | 0 | 1 | 1 | 2 | 0 |
+| 90d | 2026-08-27 | 0 | 0 | 1 | 1 | 3 | 0 |
+| last180d | 2026-05-29 | 0 | 0 | 2 | 3 | 3 | 0 |
+| 360d | 2025-11-30 | 1 | 5 | 3 | 10 | 4 | 10 |
+| last720d | 2024-12-05 | 4 | 24 | 3 | 20 | 8 | 104 |
 
 ## Release assets
 
@@ -70,16 +70,6 @@ Total: **5,369** lines of code across **52** files in the top 5 languages.
 | [dstask-linux-arm5](https://github.com/naggie/dstask/releases/download/v1.0.1/dstask-linux-arm5) | 3.6 MiB | `native/linux/arm` |
 | [dstask-windows-amd64.exe](https://github.com/naggie/dstask/releases/download/v1.0.1/dstask-windows-amd64.exe) | 4.1 MiB | `native/win/x64` |
 
-## Distribution status
-
-Reported by **19** distros on [repology.org](https://repology.org/project/dstask). **12** are ✅ on the latest upstream release, **5** are ⚠️ on an older version.
-
-| Distro | Version | Status |
-|--------|---------|--------|
-| Homebrew | `HEAD` | 🔄 rolling |
-| Nix unstable | `1.0.1` | ✅ latest |
-| Alpine edge | `1.0.1` | ✅ latest |
-
 ## Improve this data
 
 Install metadata for dstask lives in the [x-cmd/install](https://github.com/x-cmd/install) index — a curated YAML package list that x-cmd consumes at install time. If `dstask` is missing, out of date, or installs incorrectly, please open an issue or PR there:
@@ -89,4 +79,4 @@ Install metadata for dstask lives in the [x-cmd/install](https://github.com/x-cm
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/261124.yml` · 2026-11-24T11:17:10Z._
+_Snapshot: `data/card/261125.yml` · 2026-11-25T09:41:39Z._
